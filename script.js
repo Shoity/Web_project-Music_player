@@ -15,12 +15,12 @@ const nextBtn = document.getElementById('next')
 // Musics
 const songs = [
     {
-        musicName: 'Ichika nito - ice',
+        musicName: 'ichikaNito-ice',
         displayName: 'Ice',
         artist: 'Ichika Niko'
     },
     {
-        musicName: 'Ichika nito - i miss you',
+        musicName: 'ichikaNito-iMissYou',
         displayName: 'I miss you',
         artist: 'Ichika Niko'
     }
