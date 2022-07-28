@@ -73,7 +73,6 @@ function loadSong(song) {
     artist.textContent = song.artist
     music.src = `music/${song.musicName}.mp3`
     image.src = `img/${song.displayName}.jpg`
-    console.log(music.volume)
 }
 
 // Update progress Bar & time
